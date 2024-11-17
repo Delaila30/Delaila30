@@ -8,6 +8,3 @@ La mantenibilidad de productos de software y su gestión de riesgo
 También el control de versiones 
 He aprendido a realizar bucles de Pseint y Javascript, aprendiendo a utilizar HTML para la creación de páginas
 
-
-Mi primer proyecto 2 modificación 
-También aprendí que para la realización de un proyecto no solo requiere de saber programar y ya, se debe saber y organizar como se va a trabajar y con que herramientas 
