@@ -1,10 +1,14 @@
-Soy Andrea Sarmiento estudiante de la Universidad Estatal de Milagro 
-Sigo la carrera de ingeniería en software estoy en mi primer semestre 
-Este repositorio es para dar a conocer lo aprendido de dicha carrera 
-Como la ética en la ingeniería de software, los ciclos de vida del software 
-Sus metodologías ágiles como el Scrum, XP, Kanban y muchas mas
-Así como también la introducción a la ingeniería de requerimientos y de pruebas 
-La mantenibilidad de productos de software y su gestión de riesgo
-También el control de versiones 
-He aprendido a realizar bucles de Pseint y Javascript, aprendiendo a utilizar HTML para la creación de páginas
+# Introducción
+
+<p>Soy Andrea Sarmiento, estudiante del primer semestre de Ingeniería en Software en la Universidad Estatal de Milagro. <br>Este repositorio tiene como propósito reflejar mi progreso en el aprendizaje del desarrollo de software y las herramientas que voy descubriendo en este camino.</p>
+
+## Temas explorados:
+<p>He trabajado con PSeInt para diseñar algoritmos básicos, además de aprender sobre bucles (for y while). También he comenzado a desarrollar páginas web simples utilizando HTML y conceptos fundamentales de JavaScript.</p>
+
+## Logros:
+<p>He utilizado herramientas como Visual Studio Code, mejorando mi capacidad para resolver problemas mediante programación estructurada. Asimismo, he puesto en práctica la lógica de programación en distintos lenguajes.</p>
+
+## Objetivos a futuro:
+*<p>Mi objetivo principal es seguir ampliando mis conocimientos para implementar soluciones más complejas y eficientes, adoptando prácticas avanzadas en el desarrollo de software.</p>*
+
 
